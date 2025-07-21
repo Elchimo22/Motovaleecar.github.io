@@ -2,7 +2,7 @@ const carsData = [
     {
         id: 1,
         name: "Citroen C-ELYSE ",
-        price: 40,
+        price: 25,
         year: 2022,
         image: "https://storage.googleapis.com/fotosautos/automotora/ASC/100/1189492/CITROEN-C-ELYSEE-lbqfes.webp",
         features: ["Manual", "4 puertas", "Diésel"]
@@ -10,7 +10,7 @@ const carsData = [
     {
         id: 2,
         name: "Dacia sandero",
-        price: 40,
+        price: 25,
         year: 2023,
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGkYUmuVm_Qa_VFxnIJyai3JI9s3fe_1ZtXA&s",
         features: ["Manual", "4 puertas", "Diesel"]
@@ -18,7 +18,7 @@ const carsData = [
      {
         id: 3,
         name: "Dacia sandero",
-        price: 40,
+        price: 25,
         year: 2023,
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGkYUmuVm_Qa_VFxnIJyai3JI9s3fe_1ZtXA&s",
         features: ["Manual", "4 puertas", "Diésel"]
@@ -28,7 +28,7 @@ const carsData = [
     {
         id: 4,
         name: " Peugeot 208 ",
-        price: 40,
+        price: 30,
         year: 2025,
         image: "https://www.peugeot.ma/content/dam/peugeot/master/b2c/our-range/showroom/208/2023-10-new-208/mobile/208_ALLUREEV_M.jpg?imwidth=768",
         features: ["Manual", "4 puertas", "Diésel"]
@@ -38,7 +38,7 @@ const carsData = [
        {
         id: 5,
         name: " Dacia Stepway  ",
-        price: 40,
+        price: 30,
         year: 2023,
         image: "https://cdn.wheel-size.com/automobile/body/dacia-sandero-stepway-2022-2025-1731390854.5015533.jpg",
         features: ["Manual", "4 puertas", "Diésel"]
@@ -48,7 +48,7 @@ const carsData = [
        {
         id: 6,
         name: " Citroen C3  ",
-        price: 40,
+        price: 25,
         year: 2021,
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCX6N5amNtvrhEMnwnezBcttVZFsugV-YljQ&s",
         features: ["Manual", "4puertas", "Diésel"]
@@ -58,7 +58,7 @@ const carsData = [
      {
         id: 7,
         name: " Citroen C3  ",
-        price: 40,
+        price: 25,
         year: 2021,
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCX6N5amNtvrhEMnwnezBcttVZFsugV-YljQ&s",
         features: ["Manual", "4puertas", "Diésel"]
@@ -68,7 +68,7 @@ const carsData = [
     {
         id: 8,
         name: "Citroen C-ELYSE ",
-        price: 40,
+        price: 25,
         year: 2021,
         image: "https://www.wandaloo.com/files/Voiture-Neuve/citroen-c-elysee-2012.jpg",
         features: ["Manual", "4 puertas", "Diésel"]
@@ -76,7 +76,7 @@ const carsData = [
     {
         id: 9,
         name: "Opel Corsa",
-        price: 40,
+        price: 30,
         year: 2025,
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9fruR_iJ57JZmjJLO8dbNlClpswocpz_ZvzlefDSemJvO18N5atxNZ-ifhX5HstclUE&usqp=CAU",
         features: ["Manual", "4 puertas", "Diésel"]
@@ -84,7 +84,7 @@ const carsData = [
     {
         id: 10,
         name: "Opel Corsa",
-        price: 40,
+        price: 30,
         year: 2023,
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-7jXuuYvxfN_bcDYp589IBPaiqVXLxo26Aw&s",
         features: ["Manual", "4 puertas", "Diésel"]
@@ -92,7 +92,7 @@ const carsData = [
     {
         id: 11,
         name: "Accent",
-        price: 40,
+        price: 35,
         year: 2020,
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMyHXPdNrvYzbnjCGdZJMYcEUOkoIBRgtvcA&s",
         features: ["Automatico", "4 puertas", "Diésel"]
@@ -100,11 +100,45 @@ const carsData = [
       {
         id: 12,
         name: "Accent",
-        price: 40,
+        price: 35,
         year: 2021,
         image: "https://storage.googleapis.com/fotosautos/automotora/ASC/100/1189492/CITROEN-C-ELYSEE-lbqfes.webp",
         features: ["Automatico", "4 puertas", "Diésel"]
-    }
+    },
+     {
+        id: 13,
+        name: "Mercedes-Benz A-Class A200d ",
+        price: 120,
+        year: 2025,
+        image: "https://img.autotrader.co.za/36221562/Crop800x600",
+        features: ["Automatico", "4 puertas", "Diésel"]
+    },
+      {
+        id: 14,
+        name: "Mercedes-Benz A-Class A200d ",
+        price: 120,
+        year: 2025,
+        image: "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/l/RT_V_6ab89569f7594fd08e9356910ed797fb.webp",
+        features: ["Automatico", "4 puertas", "Diésel"]
+    },
+     {
+        id: 15,
+        name: "Renault Clio V ",
+        price: 25,
+        year: 2023,
+        image: "https://i.ytimg.com/vi/o1HCZ-uGWjw/sddefault.jpg",
+        features: ["Manual", "4 puertas", "Diésel"]
+    },
+    {
+        id: 16,
+        name: "Renault Clio V ",
+        price: 25,
+        year: 2024,
+        image: "https://s3-eu-west-1.amazonaws.com/staticeu.izmocars.com/toolkit/commonassets/2024/24renault/24renaultcliohevtechnohb5rb/24renaultcliohevtechnohb5rb_animations/colorpix/fr/400x300/renault_24cliohevtechnohb5rb_grisschiste_angular-front.webp",
+        features: ["Manual", "4 puertas", "Diésel"]
+    },
+    
+
 
 ];
 
