@@ -275,7 +275,7 @@ const translations = {
     "message-placeholder": "Message"    }
 };
 
-let currentLanguage = 'es';
+let currentLanguage = 'fr';
 
 // Actualizar textos según idioma
 function updateTexts() {
